@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
+    "babel-preset-expo": "^54.0.12",
     "eas-cli": "^16.0.0"
   },
   "engines": {
