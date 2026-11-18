@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "HR Pro Enhanced",
+    "slug": "hrpro-enhanced",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.fercomz.hrproenhanced",
+      "versionCode": 1,
+      "permissions": [],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#14243A"
+      }
+    },
+    "extra": {
+      "prototypeMode": "local-only"
+    },
+    "icon": "./assets/icon.png"
+  }
+}
